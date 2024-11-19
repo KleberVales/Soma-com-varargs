@@ -10,5 +10,6 @@ O desafio refere-se a um exercício em Java onde você deve implementar uma clas
 - Seis linhas de entrada, cada uma contendo um número inteiro.
 
 ## Formato de Saída
+- Quatro linhas de saída, cada uma mostrando a soma dos inteiros passados como parâmetros na chamada do método add, conforme exemplificado abaixo.
 
 
