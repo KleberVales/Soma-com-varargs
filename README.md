@@ -12,8 +12,10 @@ O desafio refere-se a um exercício em Java onde você deve implementar uma clas
 ## Formato de Saída
 - Quatro linhas de saída, cada uma mostrando a soma dos inteiros passados como parâmetros na chamada do método add, conforme exemplificado abaixo.
 
-## Exemplo de Entrada
+## Exemplo de Entrada\
+![imagens/img1.png](imagens/img1.png)
 
-## Exemplo de Saída
+## Exemplo de Saída\
+![imagens/img2.png](imagens/img2.png)
 
 
