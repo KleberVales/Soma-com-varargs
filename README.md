@@ -7,5 +7,6 @@ O desafio refere-se a um exercício em Java onde você deve implementar uma clas
 - O método add deve exibir a soma em um formato específico, incluindo os números somados e o resultado final.
 
 ## Formato de Entrada
+- Seis linhas de entrada, cada uma contendo um número inteiro.
 
 
